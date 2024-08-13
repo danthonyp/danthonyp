@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @danthonyp
-- 👀 I’m interested in code and all things automation.
-- 🌱 I’m currently learning Devops tools.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anthony
+- 👀 I’m a system admin/developer
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on any Python projects
+- 📫 How to reach me ... 
+- 
 
 <!---
 danthonyp/danthonyp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
