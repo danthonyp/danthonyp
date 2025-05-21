@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anthony
-- 👀 I’m a system admin/developer
+- 👀 I’m a system developer/ learning DevOps
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any Python projects
 - 📫 How to reach me ... 
